@@ -1,0 +1,73 @@
+body{
+    padding: 0;
+    margin: 0;  
+    background-color: rgb(68, 19, 128);
+}
+
+.meio{
+    display: flex;
+    justify-content: space-around;
+    left: 50%;
+    top: 50%;
+    align-items: center;
+    height: 100vh;
+   
+
+}
+
+.mulher{
+    padding: 50px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(#c33764 ,  #1d2671);
+    color:aliceblue;
+
+
+    
+}
+
+.homem{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    background: linear-gradient(#c33764 ,  #1d2671);
+    color:aliceblue;
+
+    
+    
+}
+
+.val{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    padding: 50px;
+    background: linear-gradient(#c33764 ,  #1d2671);
+    color:aliceblue;
+   
+}
+
+
+
+
+ button {
+    padding: 5px 20px 5px 20px;
+    border-radius: 20px;
+    margin:10px;
+    background-color: #707bdd;
+}
+
+.mulher button {
+    background-color: #bd63d3;
+}
+
+
+
+
+input{
+    border-radius: 20px;
+
+}

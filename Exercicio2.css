@@ -1,0 +1,80 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(194, 194, 194);
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    
+
+
+ 
+
+ 
+}
+
+
+.separado{
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    border: 5px solid rgb(51, 32, 158);
+    padding: 120px;
+    margin-right: 100px;
+    height: 120px;
+    background-color:rgb(95, 147, 193);
+    border-radius: 20px;
+}
+
+.separado1{
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    border: 5px solid rgb(51, 32, 158);
+    margin-left: 100px;
+    padding: 120px;
+    height:120px;
+    background-color: rgb(16, 194, 188);
+    border-radius: 20px;
+    
+}
+
+p{text-align: center;}
+
+button{
+    background-color: rgb(116, 116, 243);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+input{
+    border: 5px solid #2166ba,;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    
+
+}
+
+#Celsi{
+background-color: rgb(87, 135, 223);
+margin-top: 10px;
+border-radius: 10px;
+
+
+
+}
+
+#Fahnh{
+    background-color: rgb(65, 105, 179);
+    margin-top: 10px;
+    border-radius: 10px;
+
+    
+    }
+    

@@ -1,0 +1,35 @@
+body{
+    padding: 0;
+    
+    background-image: linear-gradient(to right, #8360c3, #2ebf91);
+  
+}
+
+div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+    
+   
+  
+}
+
+ul{
+    list-style: none;
+    display: flex;
+   
+
+}
+
+p{
+    background-color: cornflowerblue;
+    padding: 30px;
+    margin: 10px;
+    border: 3px solid black
+}
+h1{
+    text-align: center;
+    
+}
